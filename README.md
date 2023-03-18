@@ -20,10 +20,10 @@ The following REQUIRED features are completed:
 
 - [ ] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [x ] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [x ] Layout uses one (1) or more ConstraintLayout
+- [x ] Layout uses one (1) or more ImageView
+- [x ] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
