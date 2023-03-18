@@ -46,7 +46,7 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and101/e7B7pEUB.gif='Video Demo' />
+<img src='https://submissions.us-east-1.linodeobjects.com/and101/e7B7pEUB.gif'='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
