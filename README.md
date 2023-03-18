@@ -2,7 +2,7 @@
 
 # AND101 Project 3 - AnimalApps
 
-Submitted by: **Your Name Here**
+Submitted by: **YJunZheng Lyu**
 
 Time spent: **8** hours spent in total
 
